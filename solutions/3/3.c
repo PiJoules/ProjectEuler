@@ -2,8 +2,6 @@
 
 
 int main(int argc, char* argv[]){
-	unsigned long sum = 0;
-
 	unsigned long i;
 	unsigned long val = 600851475143;
 	for (i = 2; i < val; i++){
